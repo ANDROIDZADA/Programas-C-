@@ -1,0 +1,30 @@
+C:\3SistemasB\Media\bin\Debug\net6.0\Media.exe
+C:\3SistemasB\Media\bin\Debug\net6.0\Media.deps.json
+C:\3SistemasB\Media\bin\Debug\net6.0\Media.runtimeconfig.json
+C:\3SistemasB\Media\bin\Debug\net6.0\Media.dll
+C:\3SistemasB\Media\bin\Debug\net6.0\Media.pdb
+C:\3SistemasB\Media\obj\Debug\net6.0\Media.csproj.AssemblyReference.cache
+C:\3SistemasB\Media\obj\Debug\net6.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\3SistemasB\Media\obj\Debug\net6.0\Media.AssemblyInfoInputs.cache
+C:\3SistemasB\Media\obj\Debug\net6.0\Media.AssemblyInfo.cs
+C:\3SistemasB\Media\obj\Debug\net6.0\Media.csproj.CoreCompileInputs.cache
+C:\3SistemasB\Media\obj\Debug\net6.0\Media.dll
+C:\3SistemasB\Media\obj\Debug\net6.0\refint\Media.dll
+C:\3SistemasB\Media\obj\Debug\net6.0\Media.pdb
+C:\3SistemasB\Media\obj\Debug\net6.0\Media.genruntimeconfig.cache
+C:\3SistemasB\Media\obj\Debug\net6.0\ref\Media.dll
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\Media.csproj.AssemblyReference.cache
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\Media.AssemblyInfoInputs.cache
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\Media.AssemblyInfo.cs
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\Media.csproj.CoreCompileInputs.cache
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\Media.dll
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\refint\Media.dll
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\Media.pdb
+D:\Andrey\Programas C#\Media\bin\Debug\net6.0\Media.exe
+D:\Andrey\Programas C#\Media\bin\Debug\net6.0\Media.deps.json
+D:\Andrey\Programas C#\Media\bin\Debug\net6.0\Media.runtimeconfig.json
+D:\Andrey\Programas C#\Media\bin\Debug\net6.0\Media.dll
+D:\Andrey\Programas C#\Media\bin\Debug\net6.0\Media.pdb
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\Media.genruntimeconfig.cache
+D:\Andrey\Programas C#\Media\obj\Debug\net6.0\ref\Media.dll

@@ -1,0 +1,23 @@
+C:\3SistemasB\Teste\bin\Debug\net6.0\Teste.exe
+C:\3SistemasB\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\3SistemasB\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\3SistemasB\Teste\bin\Debug\net6.0\Teste.dll
+C:\3SistemasB\Teste\bin\Debug\net6.0\Teste.pdb
+C:\3SistemasB\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\3SistemasB\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\3SistemasB\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\3SistemasB\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\3SistemasB\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\3SistemasB\Teste\obj\Debug\net6.0\Teste.dll
+C:\3SistemasB\Teste\obj\Debug\net6.0\refint\Teste.dll
+C:\3SistemasB\Teste\obj\Debug\net6.0\Teste.pdb
+C:\3SistemasB\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
+C:\3SistemasB\Teste\obj\Debug\net6.0\ref\Teste.dll
+D:\Andrey\Programas C#\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+D:\Andrey\Programas C#\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey\Programas C#\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+D:\Andrey\Programas C#\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+D:\Andrey\Programas C#\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+D:\Andrey\Programas C#\Teste\obj\Debug\net6.0\Teste.dll
+D:\Andrey\Programas C#\Teste\obj\Debug\net6.0\refint\Teste.dll
+D:\Andrey\Programas C#\Teste\obj\Debug\net6.0\Teste.pdb
